@@ -1,1 +1,3 @@
 I contributed to this file by adding my name and reason why I am doing this school.
+
+I am trying to learn using this Github, but little confused.
